@@ -1,3 +1,4 @@
+#Escribir un programa que saque el cuadrado y el cubo de un numero
 
 print("Numero", "Cuadrado", "Cubo")
 print("1" "\t" "\t" + str(1*1), "\t" "\t", str(1*1*1))
